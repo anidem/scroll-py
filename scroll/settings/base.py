@@ -23,7 +23,7 @@ DEBUG = False
 
 TEMPLATE_DEBUG = False
 
-ALLOWED_HOSTS = ['scrold.herokuapps.com']
+ALLOWED_HOSTS = ['scrold.herokuapp.com']
 
 
 DATABASES = {
